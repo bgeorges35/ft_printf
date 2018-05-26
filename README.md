@@ -7,4 +7,4 @@ School project @42
 * The %% is supported  
 * The following flags are supported: # 0 - + [SPACE]  
 * The following lengths flags are supported: hh, h, l, ll, j, z  
-* The precision is supported  
+* The precision and the width are supported  
